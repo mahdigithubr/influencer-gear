@@ -1,0 +1,15 @@
+<i class="fa-solid fa-cart-arrow-down"></i>
+<i class="fa-solid fa-cart-shopping"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-arrow-right-long"></i>
+<i class="fa-solid fa-star"></i>
+<i class="fa-regular fa-star-half-stroke"></i>
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-youtube"></i>
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
